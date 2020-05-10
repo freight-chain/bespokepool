@@ -1,0 +1,20 @@
+{
+  "name": "bespokepool",
+  "version": "1.2.0",
+  "description": "general erc-20 token staking pool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/freight-chain/bespokepool.git"
+  },
+  "keywords": [
+    "staking",
+    "pools",
+    "ethereum"
+  ],
+  "author": "",
+  "license": "MIT"
+}
