@@ -1,12 +1,11 @@
 pragma solidity 0.5.11;
 
 /**
- * @dev Interface of the ERC20 standard as defined in the EIP. Does not include
- * the optional functions; to access them see {ERC20Detailed}.
+ * @dev ERC-1400 is not "approved" as an erc format, taking consensys format o the standard!
  */
 
  
-interface IERC20 {
+interface IERC1400 {
 
     function totalSupply() external view returns (uint256);
 
