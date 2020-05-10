@@ -6,6 +6,7 @@
   "license": "APACHE-2",
   "dependencies": {
     "@openzeppelin/cli": "^2.8.2",
-    "@openzeppelin/contracts": "^3.0.1"
+    "@openzeppelin/contracts": "^3.0.1",
+    "@openzeppelin/test-environment": "^0.1.4"
   }
 }
