@@ -7,6 +7,7 @@
   "author": "Freight Trust <4074885-freighttrust@users.noreply.gitlab.com>",
   "license": "APACHE-2",
   "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
     "@openzeppelin/contracts": "^3.0.1"
   }
 }
