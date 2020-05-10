@@ -1,0 +1,11 @@
+{
+  "name": "bespokePool-ethereum-mainnet",
+  "version": "1.1.0",
+  "description": "the ethereum mainnet side of the pool",
+  "main": "index.js",
+  "license": "APACHE-2",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^3.0.1"
+  }
+}
